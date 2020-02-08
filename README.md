@@ -3,4 +3,4 @@ This repository showcases the final project I did to obtain my final Coursera IB
 
 In this project we analyze venue-types around metro stations in Madrid (Spain) with the purpose of helping entrepreneurs looking to open a new restaurant in the city. In order to do so, we will use data related to metro stations available under Madrid's City Hall website. Once the data is gathered and cleaned, we will use Foursquare's API to obtain information about venues. Finally, we will use different Python packages for preparing visualizations and applying machine learning concepts such as clustering.
 
-You can find the full article I wrote on LinkedIn about this project following this link.
+You can find the full article I wrote on LinkedIn about this project following this [link](https://www.linkedin.com/pulse/analysis-venue-types-around-metro-stations-madrid-ignacio).
